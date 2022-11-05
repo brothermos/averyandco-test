@@ -6,7 +6,7 @@ function Education() {
             <h1 className=" text-[#cf2027] text-6xl font-bold flex justify-center pt-32 pb-20">
                 Experience
             </h1>
-            <div className="flex justify-center">
+            <div className="flex justify-center pb-20">
                 {/* EDUCATION */}
                 <div className="p-8 mr-16 w-3/12 border-dashed border-2 border-[#cf2027] rounded-3xl shadow-xl">
                     <div>
