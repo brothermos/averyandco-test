@@ -7,7 +7,7 @@ function Profile() {
     }
 
     return (
-        <div className="flex justify-between">
+        <div className="flex justify-between pb-20">
 
             {/* About Me */}
             <section className="pl-60 pt-32">
