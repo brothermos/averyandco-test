@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 function App() {
-    //state to calculate
+    {/* state to calculate */}
     let [factorial, setFactorial] = useState(1);
     let [result, setResult] = useState(1);
 
@@ -14,7 +14,6 @@ function App() {
         for (let i = 1; i <= factorial; i++) {
             result *= i;
         }
-        // result = facto * 10;
         setResult(result.toFixed(0));
     };
 

@@ -5,7 +5,7 @@ function Navbar() {
     return (
         <nav className="flex justify-between items-center px-60 pt-7 mb-0 text-[#cf2027] text-2xl">
             <header className="cursor-pointer  hover:text-black hover:text">
-                Natdanai
+                <a href="/">Natdanai</a>
             </header>
 
             <ul className="flex gap-10">

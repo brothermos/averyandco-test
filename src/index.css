@@ -3,7 +3,5 @@
 @tailwind utilities;
 
 body{
-    height: 100vh;
-    overflow-y: hidden;
     background: linear-gradient(to right,#bcbfc3,#fcfcf9);
   }
